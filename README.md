@@ -6,7 +6,7 @@
 
 <h2>Write a program that simulates a fish tank containing different types of fish.</h2>
 
-* The deliverable for the program will be the source code as a zip file and can be created by running mvn package from the command line. This will create fishtank.zip in the target directory, which you can email to me at chris.schmidt@contrastsecurity.com 
+* The deliverable for the program will be the source code as a zip file and can be created by running mvn package from the command line. This will create fishtank.zip in the target directory
  
 * The program shall be executable from the command line and shall take 5 arguments representing different sizes of fish. The first argument should be x-large fish, then large fish, medium fish, small fish and finally x-small fish.
 
