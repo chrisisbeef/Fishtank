@@ -43,13 +43,5 @@ You can run these test-cases yourself to ensure functionality by running the mvn
 | Parameters | Expected Output |
 |----------|---------------|
 | <null>|InvalidArgumentException|
-|1 1 1 1 1|```
-XLarge: 1
-Fish Eaten: 4
-Fish Grown: 1
-```|
-|10 4 7 2 0|```
-Large: 7
-Fish Eaten: 16
-Fish Grown: 19
-```|
+|1 1 1 1 1|```XLarge: 1 Fish Eaten: 4 Fish Grown: 1```|
+|10 4 7 2 0|```Large: 7 Fish Eaten: 16 Fish Grown: 19```|
