@@ -30,6 +30,6 @@ public class FishtankTest {
         Assert.assertTrue(fishInTank.containsKey(Size.LARGE));
         Assert.assertEquals(fishInTank.get(Size.LARGE), Integer.valueOf(7));
         Assert.assertEquals(tank.getFishEaten(), 16);
-        Assert.assertEquals(tank.getFishGrown(), 19);
+        Assert.assertEquals(tank.getFishGrown(), 15);
     }
 }
